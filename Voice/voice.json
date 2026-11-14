@@ -1,0 +1,5 @@
+{
+  "normal": { "voice": "hi-IN-MadhurNeural", "rate": "+6%" },
+  "calm":   { "voice": "hi-IN-MadhurNeural", "rate": "-3%" },
+  "concurrency": 4
+}

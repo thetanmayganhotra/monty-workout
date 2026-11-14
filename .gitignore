@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+MontyWorkout.app/
+*.xcodeproj
+*.dmg
+.DS_Store
